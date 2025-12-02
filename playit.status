@@ -1,0 +1,1590 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.4): 1764641822131 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2VXvAAAAAQAAAAEAAAAAAAAAAAAAXy0FgB55M_WDdR2HOiwNXqiHBOmqP-0OBd7lD9d-a60=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641825321 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2VXvAAAAAQAAAAEAAAAAAAAAAAAAXy0FgB55M_WDdR2HOiwNXqiHBOmqP-0OBd7lD9d-a60=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764641840441 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2Z1rAAAAAQAAAAEAAAAAAAAAAAAAMVV0-6weKHI9OnyFxe6GHkMAijy5eeRKSobM1ithg18=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641843620 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2Z1rAAAAAQAAAAEAAAAAAAAAAAAAMVV0-6weKHI9OnyFxe6GHkMAijy5eeRKSobM1ithg18=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641846718 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2Z1rAAAAAQAAAAEAAAAAAAAAAAAAMVV0-6weKHI9OnyFxe6GHkMAijy5eeRKSobM1ithg18=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641849811 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2Z1rAAAAAQAAAAEAAAAAAAAAAAAAMVV0-6weKHI9OnyFxe6GHkMAijy5eeRKSobM1ithg18=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764641864940 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2f0fAAAAAQAAAAEAAAAAAAAAAAAAbQP6oKLUc0BtshUwcxVHB_1ReOSciHNTIsjOM4y6Kyc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641868128 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2f0fAAAAAQAAAAEAAAAAAAAAAAAAbQP6oKLUc0BtshUwcxVHB_1ReOSciHNTIsjOM4y6Kyc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641871230 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2f0fAAAAAQAAAAEAAAAAAAAAAAAAbQP6oKLUc0BtshUwcxVHB_1ReOSciHNTIsjOM4y6Kyc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641874321 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2f0fAAAAAQAAAAEAAAAAAAAAAAAAbQP6oKLUc0BtshUwcxVHB_1ReOSciHNTIsjOM4y6Kyc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641877413 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2f0fAAAAAQAAAAEAAAAAAAAAAAAAbQP6oKLUc0BtshUwcxVHB_1ReOSciHNTIsjOM4y6Kyc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764641892534 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2mjtAAAAAQAAAAEAAAAAAAAAAAAA-2Us_kQ1F9qQm1Q8npOwc21Bs4FFc85pfRK7jvRmu2k=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641895727 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2mjtAAAAAQAAAAEAAAAAAAAAAAAA-2Us_kQ1F9qQm1Q8npOwc21Bs4FFc85pfRK7jvRmu2k=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641898821 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2mjtAAAAAQAAAAEAAAAAAAAAAAAA-2Us_kQ1F9qQm1Q8npOwc21Bs4FFc85pfRK7jvRmu2k=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641901925 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2mjtAAAAAQAAAAEAAAAAAAAAAAAA-2Us_kQ1F9qQm1Q8npOwc21Bs4FFc85pfRK7jvRmu2k=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641905025 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2mjtAAAAAQAAAAEAAAAAAAAAAAAA-2Us_kQ1F9qQm1Q8npOwc21Bs4FFc85pfRK7jvRmu2k=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641908147 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2qXkAAAAAQAAAAEAAAAAAAAAAAAAHdxWDL3v5vCLKKxGJKTmTvQgS5GBaploQXI355AfEww=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764641923351 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2uFLAAAAAQAAAAEAAAAAAAAAAAAABw-LuwW3Mjbas8D0MJJpbp8yzR2HtIhfUG7dmx7tu38=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641926546 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2uFLAAAAAQAAAAEAAAAAAAAAAAAABw-LuwW3Mjbas8D0MJJpbp8yzR2HtIhfUG7dmx7tu38=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641929645 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2uFLAAAAAQAAAAEAAAAAAAAAAAAABw-LuwW3Mjbas8D0MJJpbp8yzR2HtIhfUG7dmx7tu38=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641932741 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2uFLAAAAAQAAAAEAAAAAAAAAAAAABw-LuwW3Mjbas8D0MJJpbp8yzR2HtIhfUG7dmx7tu38=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641935836 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc2uFLAAAAAQAAAAEAAAAAAAAAAAAABw-LuwW3Mjbas8D0MJJpbp8yzR2HtIhfUG7dmx7tu38=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764641950963 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc200mAAAAAQAAAAEAAAAAAAAAAAAAB88twfqkui98Lq-2J-eWMXUwlWsNL_KBd22YnveP25Q=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641954142 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc200mAAAAAQAAAAEAAAAAAAAAAAAAB88twfqkui98Lq-2J-eWMXUwlWsNL_KBd22YnveP25Q=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641957235 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc200mAAAAAQAAAAEAAAAAAAAAAAAAB88twfqkui98Lq-2J-eWMXUwlWsNL_KBd22YnveP25Q=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641960328 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc200mAAAAAQAAAAEAAAAAAAAAAAAAB88twfqkui98Lq-2J-eWMXUwlWsNL_KBd22YnveP25Q=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641963424 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc200mAAAAAQAAAAEAAAAAAAAAAAAAB88twfqkui98Lq-2J-eWMXUwlWsNL_KBd22YnveP25Q=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641966521 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc24nsAAAAAQAAAAEAAAAAAAAAAAAA1eY4MzOH5Gkobi8kLFFkVOCd3xf0u48IXACHElX-AMM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641969706 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc24nsAAAAAQAAAAEAAAAAAAAAAAAA1eY4MzOH5Gkobi8kLFFkVOCd3xf0u48IXACHElX-AMM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764641984827 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc29FuAAAAAQAAAAEAAAAAAAAAAAAArUFjoArY5SfXUJ5dx2xAT8ST1DZcnClyhgBbKuNrBW8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641988011 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc29FuAAAAAQAAAAEAAAAAAAAAAAAArUFjoArY5SfXUJ5dx2xAT8ST1DZcnClyhgBbKuNrBW8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641991107 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc29FuAAAAAQAAAAEAAAAAAAAAAAAArUFjoArY5SfXUJ5dx2xAT8ST1DZcnClyhgBbKuNrBW8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641994202 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc29FuAAAAAQAAAAEAAAAAAAAAAAAArUFjoArY5SfXUJ5dx2xAT8ST1DZcnClyhgBbKuNrBW8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764641997294 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc29FuAAAAAQAAAAEAAAAAAAAAAAAArUFjoArY5SfXUJ5dx2xAT8ST1DZcnClyhgBbKuNrBW8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642000387 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3A47AAAAAQAAAAEAAAAAAAAAAAAAXN8xlOpL4zrxKSeppgM10xTTEHj89vL8iJmW4QjJaEE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642015596 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3EmdAAAAAQAAAAEAAAAAAAAAAAAAoaQDKgCONUEfNFxLUH_xrcG_WdT67n1psYaNL8i2_yg=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642018772 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3EmdAAAAAQAAAAEAAAAAAAAAAAAAoaQDKgCONUEfNFxLUH_xrcG_WdT67n1psYaNL8i2_yg=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642021867 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3EmdAAAAAQAAAAEAAAAAAAAAAAAAoaQDKgCONUEfNFxLUH_xrcG_WdT67n1psYaNL8i2_yg=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642024961 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3EmdAAAAAQAAAAEAAAAAAAAAAAAAoaQDKgCONUEfNFxLUH_xrcG_WdT67n1psYaNL8i2_yg=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642028053 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3EmdAAAAAQAAAAEAAAAAAAAAAAAAoaQDKgCONUEfNFxLUH_xrcG_WdT67n1psYaNL8i2_yg=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642031170 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3IZ2AAAAAQAAAAEAAAAAAAAAAAAAeGVMxAyrA148pv88NE_Zvz-oelBLL2pD9v25GJewBJU=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642046379 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3MHhAAAAAQAAAAEAAAAAAAAAAAAA9dzBXqom24fiAedrt2bvx1ZdNAA-F6dFOjaHE1tSUo0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642049567 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3MHhAAAAAQAAAAEAAAAAAAAAAAAA9dzBXqom24fiAedrt2bvx1ZdNAA-F6dFOjaHE1tSUo0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642052662 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3MHhAAAAAQAAAAEAAAAAAAAAAAAA9dzBXqom24fiAedrt2bvx1ZdNAA-F6dFOjaHE1tSUo0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642055756 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3MHhAAAAAQAAAAEAAAAAAAAAAAAA9dzBXqom24fiAedrt2bvx1ZdNAA-F6dFOjaHE1tSUo0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642058848 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3MHhAAAAAQAAAAEAAAAAAAAAAAAA9dzBXqom24fiAedrt2bvx1ZdNAA-F6dFOjaHE1tSUo0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642073967 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3S2jAAAAAQAAAAEAAAAAAAAAAAAA6UzXv8Veon8afr3amu_z9WG35Xit35EFkzLYvlhnn7g=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642077147 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3S2jAAAAAQAAAAEAAAAAAAAAAAAA6UzXv8Veon8afr3amu_z9WG35Xit35EFkzLYvlhnn7g=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642080240 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3S2jAAAAAQAAAAEAAAAAAAAAAAAA6UzXv8Veon8afr3amu_z9WG35Xit35EFkzLYvlhnn7g=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642083337 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3S2jAAAAAQAAAAEAAAAAAAAAAAAA6UzXv8Veon8afr3amu_z9WG35Xit35EFkzLYvlhnn7g=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642086434 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3S2jAAAAAQAAAAEAAAAAAAAAAAAA6UzXv8Veon8afr3amu_z9WG35Xit35EFkzLYvlhnn7g=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642089521 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3WpjAAAAAQAAAAEAAAAAAAAAAAAAvnD63gSib7dDIyUO8lepNjRvhqmUCtl4RFXsWogAtTg=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642104726 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3aXOAAAAAQAAAAEAAAAAAAAAAAAACNlyd9bW1aT7908R8VY6__kxeQ3eQHoofFAzw56ZTqw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642107907 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3aXOAAAAAQAAAAEAAAAAAAAAAAAACNlyd9bW1aT7908R8VY6__kxeQ3eQHoofFAzw56ZTqw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642110997 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3aXOAAAAAQAAAAEAAAAAAAAAAAAACNlyd9bW1aT7908R8VY6__kxeQ3eQHoofFAzw56ZTqw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642114088 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3aXOAAAAAQAAAAEAAAAAAAAAAAAACNlyd9bW1aT7908R8VY6__kxeQ3eQHoofFAzw56ZTqw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642117180 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3aXOAAAAAQAAAAEAAAAAAAAAAAAACNlyd9bW1aT7908R8VY6__kxeQ3eQHoofFAzw56ZTqw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642120275 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3eKLAAAAAQAAAAEAAAAAAAAAAAAA1n4Cm5DB9AfED_95VgO6hOCR0zFJCaFI7jtOBWjyI1o=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642123465 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3eKLAAAAAQAAAAEAAAAAAAAAAAAA1n4Cm5DB9AfED_95VgO6hOCR0zFJCaFI7jtOBWjyI1o=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642126558 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3eKLAAAAAQAAAAEAAAAAAAAAAAAA1n4Cm5DB9AfED_95VgO6hOCR0zFJCaFI7jtOBWjyI1o=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642141685 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3jYnAAAAAQAAAAEAAAAAAAAAAAAAfOhZIcaes5GO0SOa5yRsRAkjFpkQ7l0-vG4rIQqd6Aw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642144860 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3jYnAAAAAQAAAAEAAAAAAAAAAAAAfOhZIcaes5GO0SOa5yRsRAkjFpkQ7l0-vG4rIQqd6Aw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642147953 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3jYnAAAAAQAAAAEAAAAAAAAAAAAAfOhZIcaes5GO0SOa5yRsRAkjFpkQ7l0-vG4rIQqd6Aw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642151042 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3jYnAAAAAQAAAAEAAAAAAAAAAAAAfOhZIcaes5GO0SOa5yRsRAkjFpkQ7l0-vG4rIQqd6Aw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642166173 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3pXRAAAAAQAAAAEAAAAAAAAAAAAAMFL-AK5LBTtDUhlX77m9jJk6Md9-BZaF8PRDCTqQwmk=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642169353 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3pXRAAAAAQAAAAEAAAAAAAAAAAAAMFL-AK5LBTtDUhlX77m9jJk6Md9-BZaF8PRDCTqQwmk=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642172450 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3pXRAAAAAQAAAAEAAAAAAAAAAAAAMFL-AK5LBTtDUhlX77m9jJk6Md9-BZaF8PRDCTqQwmk=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642175543 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3pXRAAAAAQAAAAEAAAAAAAAAAAAAMFL-AK5LBTtDUhlX77m9jJk6Md9-BZaF8PRDCTqQwmk=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642178634 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3pXRAAAAAQAAAAEAAAAAAAAAAAAAMFL-AK5LBTtDUhlX77m9jJk6Md9-BZaF8PRDCTqQwmk=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642181776 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3tLDAAAAAQAAAAEAAAAAAAAAAAAAiCjDaUW9LuizT5ptqQGcQboQ2VC2vW0sPQRFQL7mIE4=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642184955 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3tLDAAAAAQAAAAEAAAAAAAAAAAAAiCjDaUW9LuizT5ptqQGcQboQ2VC2vW0sPQRFQL7mIE4=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642200068 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3xo-AAAAAQAAAAEAAAAAAAAAAAAAhdJHFzFULKrkMCU2W_VGzNdPcQ06i60EU_-Tlcxlmt0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642203253 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3xo-AAAAAQAAAAEAAAAAAAAAAAAAhdJHFzFULKrkMCU2W_VGzNdPcQ06i60EU_-Tlcxlmt0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642206347 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3xo-AAAAAQAAAAEAAAAAAAAAAAAAhdJHFzFULKrkMCU2W_VGzNdPcQ06i60EU_-Tlcxlmt0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642209448 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3xo-AAAAAQAAAAEAAAAAAAAAAAAAhdJHFzFULKrkMCU2W_VGzNdPcQ06i60EU_-Tlcxlmt0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642212555 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3xo-AAAAAQAAAAEAAAAAAAAAAAAAhdJHFzFULKrkMCU2W_VGzNdPcQ06i60EU_-Tlcxlmt0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642215656 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc31ciAAAAAQAAAAEAAAAAAAAAAAAARW6SJ2eLpkoCkWtyRsBSMHQZ-efbPBMRMWRSSF6m3xo=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642230858 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc35J-AAAAAQAAAAEAAAAAAAAAAAAAEfTnLhUCxePnSVBIxVaUGPWD2WnOrB_UIFq8YSR9Xc0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642234036 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc35J-AAAAAQAAAAEAAAAAAAAAAAAAEfTnLhUCxePnSVBIxVaUGPWD2WnOrB_UIFq8YSR9Xc0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642237133 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc35J-AAAAAQAAAAEAAAAAAAAAAAAAEfTnLhUCxePnSVBIxVaUGPWD2WnOrB_UIFq8YSR9Xc0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642240227 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc35J-AAAAAQAAAAEAAAAAAAAAAAAAEfTnLhUCxePnSVBIxVaUGPWD2WnOrB_UIFq8YSR9Xc0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642255351 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3_ItAAAAAQAAAAEAAAAAAAAAAAAAmEllt5NUVuEzEy65ej7T9NpwK9yVMGTDdD8xPQhkZIM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642258531 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3_ItAAAAAQAAAAEAAAAAAAAAAAAAmEllt5NUVuEzEy65ej7T9NpwK9yVMGTDdD8xPQhkZIM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642261624 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3_ItAAAAAQAAAAEAAAAAAAAAAAAAmEllt5NUVuEzEy65ej7T9NpwK9yVMGTDdD8xPQhkZIM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642264717 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3_ItAAAAAQAAAAEAAAAAAAAAAAAAmEllt5NUVuEzEy65ej7T9NpwK9yVMGTDdD8xPQhkZIM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642267809 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc3_ItAAAAAQAAAAEAAAAAAAAAAAAAmEllt5NUVuEzEy65ej7T9NpwK9yVMGTDdD8xPQhkZIM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642270911 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4C7zAAAAAQAAAAEAAAAAAAAAAAAAt0HvpVX4o3xEw-m2p7i0ncWLM9jKXW8ZzQjvuykSRmc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642274088 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4C7zAAAAAQAAAAEAAAAAAAAAAAAAt0HvpVX4o3xEw-m2p7i0ncWLM9jKXW8ZzQjvuykSRmc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642277176 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4C7zAAAAAQAAAAEAAAAAAAAAAAAAt0HvpVX4o3xEw-m2p7i0ncWLM9jKXW8ZzQjvuykSRmc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642292301 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4IKEAAAAAQAAAAEAAAAAAAAAAAAAHQ21dNExMNmuph1EjHnUMEm6CVswNtixOzE0NkFNUdM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642295484 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4IKEAAAAAQAAAAEAAAAAAAAAAAAAHQ21dNExMNmuph1EjHnUMEm6CVswNtixOzE0NkFNUdM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642298575 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4IKEAAAAAQAAAAEAAAAAAAAAAAAAHQ21dNExMNmuph1EjHnUMEm6CVswNtixOzE0NkFNUdM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642313696 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4NYSAAAAAQAAAAEAAAAAAAAAAAAAlVpNDQGQJj2PVmQ0qTtKiFYHHSgpVNuVGzwwSylyNTI=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642316878 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4NYSAAAAAQAAAAEAAAAAAAAAAAAAlVpNDQGQJj2PVmQ0qTtKiFYHHSgpVNuVGzwwSylyNTI=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642319972 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4NYSAAAAAQAAAAEAAAAAAAAAAAAAlVpNDQGQJj2PVmQ0qTtKiFYHHSgpVNuVGzwwSylyNTI=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642335094 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4SmvAAAAAQAAAAEAAAAAAAAAAAAAf2Og3zOrxtCJTLf1Fd96NTNS0TPeLujc8HNbAL8YPFA=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642338287 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4SmvAAAAAQAAAAEAAAAAAAAAAAAAf2Og3zOrxtCJTLf1Fd96NTNS0TPeLujc8HNbAL8YPFA=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642341385 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4SmvAAAAAQAAAAEAAAAAAAAAAAAAf2Og3zOrxtCJTLf1Fd96NTNS0TPeLujc8HNbAL8YPFA=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642344477 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4SmvAAAAAQAAAAEAAAAAAAAAAAAAf2Og3zOrxtCJTLf1Fd96NTNS0TPeLujc8HNbAL8YPFA=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642359590 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4YldAAAAAQAAAAEAAAAAAAAAAAAAajMEWkjLqu_6awWu6HCqKqdd_1DIRXjVgCki_MQ9g-M=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642362770 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4YldAAAAAQAAAAEAAAAAAAAAAAAAajMEWkjLqu_6awWu6HCqKqdd_1DIRXjVgCki_MQ9g-M=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642365865 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4YldAAAAAQAAAAEAAAAAAAAAAAAAajMEWkjLqu_6awWu6HCqKqdd_1DIRXjVgCki_MQ9g-M=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642368959 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4YldAAAAAQAAAAEAAAAAAAAAAAAAajMEWkjLqu_6awWu6HCqKqdd_1DIRXjVgCki_MQ9g-M=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642384070 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4ej8AAAAAQAAAAEAAAAAAAAAAAAAT6SE84UGSO8o9G4aA7ZBN8aJ6Lp8MnQH-ZxhrGoDbi0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642387253 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4ej8AAAAAQAAAAEAAAAAAAAAAAAAT6SE84UGSO8o9G4aA7ZBN8aJ6Lp8MnQH-ZxhrGoDbi0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642390349 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4ej8AAAAAQAAAAEAAAAAAAAAAAAAT6SE84UGSO8o9G4aA7ZBN8aJ6Lp8MnQH-ZxhrGoDbi0=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642405464 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4jyMAAAAAQAAAAEAAAAAAAAAAAAAzbxLXcelom7UdYqJto8a8SfMQSJfqh0LbtInrpS_XaM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642408645 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4jyMAAAAAQAAAAEAAAAAAAAAAAAAzbxLXcelom7UdYqJto8a8SfMQSJfqh0LbtInrpS_XaM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642411737 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4jyMAAAAAQAAAAEAAAAAAAAAAAAAzbxLXcelom7UdYqJto8a8SfMQSJfqh0LbtInrpS_XaM=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642426851 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4pAVAAAAAQAAAAEAAAAAAAAAAAAABezqMCHFadNoEy56_9SewXDYkynprGOrCAb_JxUITNY=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642430035 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4pAVAAAAAQAAAAEAAAAAAAAAAAAABezqMCHFadNoEy56_9SewXDYkynprGOrCAb_JxUITNY=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642433126 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4pAVAAAAAQAAAAEAAAAAAAAAAAAABezqMCHFadNoEy56_9SewXDYkynprGOrCAb_JxUITNY=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642436214 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4pAVAAAAAQAAAAEAAAAAAAAAAAAABezqMCHFadNoEy56_9SewXDYkynprGOrCAb_JxUITNY=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642451331 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4u-7AAAAAQAAAAEAAAAAAAAAAAAAJTlh74fQF05kpAt3SsmP7ci6JffaqEcAxmoaJfPOocE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642454511 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4u-7AAAAAQAAAAEAAAAAAAAAAAAAJTlh74fQF05kpAt3SsmP7ci6JffaqEcAxmoaJfPOocE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642457612 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc4u-7AAAAAQAAAAEAAAAAAAAAAAAAJTlh74fQF05kpAt3SsmP7ci6JffaqEcAxmoaJfPOocE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642472737 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc40NZAAAAAQAAAAEAAAAAAAAAAAAAzwmUXINqBN4eoU9wR2H3gC2FGqi2B8O8cObnK_3oWL8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642475934 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc40NZAAAAAQAAAAEAAAAAAAAAAAAAzwmUXINqBN4eoU9wR2H3gC2FGqi2B8O8cObnK_3oWL8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642479032 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc40NZAAAAAQAAAAEAAAAAAAAAAAAAzwmUXINqBN4eoU9wR2H3gC2FGqi2B8O8cObnK_3oWL8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642482132 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc40NZAAAAAQAAAAEAAAAAAAAAAAAAzwmUXINqBN4eoU9wR2H3gC2FGqi2B8O8cObnK_3oWL8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642497253 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc46MjAAAAAQAAAAEAAAAAAAAAAAAA6hjj4cUkS6iKmSxG8Apamxm2pGjuh1AHw4h1EuaZip8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642500451 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc46MjAAAAAQAAAAEAAAAAAAAAAAAA6hjj4cUkS6iKmSxG8Apamxm2pGjuh1AHw4h1EuaZip8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642503555 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc46MjAAAAAQAAAAEAAAAAAAAAAAAA6hjj4cUkS6iKmSxG8Apamxm2pGjuh1AHw4h1EuaZip8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642506649 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc46MjAAAAAQAAAAEAAAAAAAAAAAAA6hjj4cUkS6iKmSxG8Apamxm2pGjuh1AHw4h1EuaZip8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642521767 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5ALgAAAAAQAAAAEAAAAAAAAAAAAAhtZ6ya0QJzyFPCLmst-PI80pGzerSqRgFIekRfVjZiQ=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642524945 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5ALgAAAAAQAAAAEAAAAAAAAAAAAAhtZ6ya0QJzyFPCLmst-PI80pGzerSqRgFIekRfVjZiQ=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642528038 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5ALgAAAAAQAAAAEAAAAAAAAAAAAAhtZ6ya0QJzyFPCLmst-PI80pGzerSqRgFIekRfVjZiQ=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642543154 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5FZnAAAAAQAAAAEAAAAAAAAAAAAAC1r7jravOVZWvso1MRt8hab-8MgEa95GyYNRawfx4tE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642546333 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5FZnAAAAAQAAAAEAAAAAAAAAAAAAC1r7jravOVZWvso1MRt8hab-8MgEa95GyYNRawfx4tE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642549439 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5FZnAAAAAQAAAAEAAAAAAAAAAAAAC1r7jravOVZWvso1MRt8hab-8MgEa95GyYNRawfx4tE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642564551 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5Kn_AAAAAQAAAAEAAAAAAAAAAAAAoCW6oji2dDLU_WQ8bstGGSdoz1Mgk1y6G6g8_w76fd8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642567731 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5Kn_AAAAAQAAAAEAAAAAAAAAAAAAoCW6oji2dDLU_WQ8bstGGSdoz1Mgk1y6G6g8_w76fd8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642570832 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5Kn_AAAAAQAAAAEAAAAAAAAAAAAAoCW6oji2dDLU_WQ8bstGGSdoz1Mgk1y6G6g8_w76fd8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642573922 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5Kn_AAAAAQAAAAEAAAAAAAAAAAAAoCW6oji2dDLU_WQ8bstGGSdoz1Mgk1y6G6g8_w76fd8=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642589040 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5QmpAAAAAQAAAAEAAAAAAAAAAAAAspUkT9QJIp0EmGrfRkcT6cTLEXC80FrwfeRkUCiumbc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642592222 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5QmpAAAAAQAAAAEAAAAAAAAAAAAAspUkT9QJIp0EmGrfRkcT6cTLEXC80FrwfeRkUCiumbc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642595309 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5QmpAAAAAQAAAAEAAAAAAAAAAAAAspUkT9QJIp0EmGrfRkcT6cTLEXC80FrwfeRkUCiumbc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642598405 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5QmpAAAAAQAAAAEAAAAAAAAAAAAAspUkT9QJIp0EmGrfRkcT6cTLEXC80FrwfeRkUCiumbc=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642613523 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5WlKAAAAAQAAAAEAAAAAAAAAAAAAOsy-qTqJI_x0oIG5yW65XxnRGhhFTv5gsU4GhaAgtdU=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642616707 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5WlKAAAAAQAAAAEAAAAAAAAAAAAAOsy-qTqJI_x0oIG5yW65XxnRGhhFTv5gsU4GhaAgtdU=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642619800 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5WlKAAAAAQAAAAEAAAAAAAAAAAAAOsy-qTqJI_x0oIG5yW65XxnRGhhFTv5gsU4GhaAgtdU=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642634912 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5bzcAAAAAQAAAAEAAAAAAAAAAAAA4C19xGC41BxS6FnMfN496jN82AOnMwZwCtx-A0PXF18=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642638104 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5bzcAAAAAQAAAAEAAAAAAAAAAAAA4C19xGC41BxS6FnMfN496jN82AOnMwZwCtx-A0PXF18=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642641201 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5bzcAAAAAQAAAAEAAAAAAAAAAAAA4C19xGC41BxS6FnMfN496jN82AOnMwZwCtx-A0PXF18=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642644297 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5bzcAAAAAQAAAAEAAAAAAAAAAAAA4C19xGC41BxS6FnMfN496jN82AOnMwZwCtx-A0PXF18=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642659416 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5hyVAAAAAQAAAAEAAAAAAAAAAAAABMVE4MMw5iJT4VZqO74xO-QUcCirO1ZmnDn3f0MPl2s=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642662598 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5hyVAAAAAQAAAAEAAAAAAAAAAAAABMVE4MMw5iJT4VZqO74xO-QUcCirO1ZmnDn3f0MPl2s=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642665702 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5hyVAAAAAQAAAAEAAAAAAAAAAAAABMVE4MMw5iJT4VZqO74xO-QUcCirO1ZmnDn3f0MPl2s=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642668790 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5hyVAAAAAQAAAAEAAAAAAAAAAAAABMVE4MMw5iJT4VZqO74xO-QUcCirO1ZmnDn3f0MPl2s=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642683908 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5nw-AAAAAQAAAAEAAAAAAAAAAAAAEx-auHBuHDFQRPP3P9Y9jYWi2Y55ZmznGg7HVfLNYK4=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642687090 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5nw-AAAAAQAAAAEAAAAAAAAAAAAAEx-auHBuHDFQRPP3P9Y9jYWi2Y55ZmznGg7HVfLNYK4=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642690182 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5nw-AAAAAQAAAAEAAAAAAAAAAAAAEx-auHBuHDFQRPP3P9Y9jYWi2Y55ZmznGg7HVfLNYK4=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642705323 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5s_pAAAAAQAAAAEAAAAAAAAAAAAA51xvOycfVTdUrgzQpvF--DCBnceabLL5caFYvYFJiGk=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642708511 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5s_pAAAAAQAAAAEAAAAAAAAAAAAA51xvOycfVTdUrgzQpvF--DCBnceabLL5caFYvYFJiGk=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642711610 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5s_pAAAAAQAAAAEAAAAAAAAAAAAA51xvOycfVTdUrgzQpvF--DCBnceabLL5caFYvYFJiGk=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642726727 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5yOEAAAAAQAAAAEAAAAAAAAAAAAAphjJ8ovHZ2JNWxfAwf5wTH3GUk-TBBvcEfUylhaSRDo=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642729911 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5yOEAAAAAQAAAAEAAAAAAAAAAAAAphjJ8ovHZ2JNWxfAwf5wTH3GUk-TBBvcEfUylhaSRDo=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642733008 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5yOEAAAAAQAAAAEAAAAAAAAAAAAAphjJ8ovHZ2JNWxfAwf5wTH3GUk-TBBvcEfUylhaSRDo=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642736101 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc5yOEAAAAAQAAAAEAAAAAAAAAAAAAphjJ8ovHZ2JNWxfAwf5wTH3GUk-TBBvcEfUylhaSRDo=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642751216 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc54MsAAAAAQAAAAEAAAAAAAAAAAAAzMA_sNmOWtZc5-BcLplNE83C-U4qkjlZb5K5SdYrzZo=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642754403 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc54MsAAAAAQAAAAEAAAAAAAAAAAAAzMA_sNmOWtZc5-BcLplNE83C-U4qkjlZb5K5SdYrzZo=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642757501 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc54MsAAAAAQAAAAEAAAAAAAAAAAAAzMA_sNmOWtZc5-BcLplNE83C-U4qkjlZb5K5SdYrzZo=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642772629 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc59bMAAAAAQAAAAEAAAAAAAAAAAAAWgdc-3ZnG9T4nnca3qEc2s20AMpZhd_Ta8lZ83AZsAw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642775817 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc59bMAAAAAQAAAAEAAAAAAAAAAAAAWgdc-3ZnG9T4nnca3qEc2s20AMpZhd_Ta8lZ83AZsAw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642778912 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc59bMAAAAAQAAAAEAAAAAAAAAAAAAWgdc-3ZnG9T4nnca3qEc2s20AMpZhd_Ta8lZ83AZsAw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642794033 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6CppAAAAAQAAAAEAAAAAAAAAAAAA-3ayJCJ0p1VvFsL9mAX_sReOJSQoAVeCjYraA1ZJ4hw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642797219 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6CppAAAAAQAAAAEAAAAAAAAAAAAA-3ayJCJ0p1VvFsL9mAX_sReOJSQoAVeCjYraA1ZJ4hw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642800313 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6CppAAAAAQAAAAEAAAAAAAAAAAAA-3ayJCJ0p1VvFsL9mAX_sReOJSQoAVeCjYraA1ZJ4hw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642803408 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6CppAAAAAQAAAAEAAAAAAAAAAAAA-3ayJCJ0p1VvFsL9mAX_sReOJSQoAVeCjYraA1ZJ4hw=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642818526 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6IobAAAAAQAAAAEAAAAAAAAAAAAACEdXbKhJjel4XlwGJx5qA7sy2oUyT_5Y6Td9cNP8-ic=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642821707 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6IobAAAAAQAAAAEAAAAAAAAAAAAACEdXbKhJjel4XlwGJx5qA7sy2oUyT_5Y6Td9cNP8-ic=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642824799 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6IobAAAAAQAAAAEAAAAAAAAAAAAACEdXbKhJjel4XlwGJx5qA7sy2oUyT_5Y6Td9cNP8-ic=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642827892 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6IobAAAAAQAAAAEAAAAAAAAAAAAACEdXbKhJjel4XlwGJx5qA7sy2oUyT_5Y6Td9cNP8-ic=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642843009 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6Om5AAAAAQAAAAEAAAAAAAAAAAAAHM4cD8MxTyC0faLGgbekFts2wsA-L0XQf9bwcnyBw7s=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642846200 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6Om5AAAAAQAAAAEAAAAAAAAAAAAAHM4cD8MxTyC0faLGgbekFts2wsA-L0XQf9bwcnyBw7s=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642849288 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6Om5AAAAAQAAAAEAAAAAAAAAAAAAHM4cD8MxTyC0faLGgbekFts2wsA-L0XQf9bwcnyBw7s=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642852383 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6Om5AAAAAQAAAAEAAAAAAAAAAAAAHM4cD8MxTyC0faLGgbekFts2wsA-L0XQf9bwcnyBw7s=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642867501 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6UlmAAAAAQAAAAEAAAAAAAAAAAAANkaN08rEl8WlQiff8TsVKo3NrGskkj0lmzIJGB4dLZs=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642870686 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6UlmAAAAAQAAAAEAAAAAAAAAAAAANkaN08rEl8WlQiff8TsVKo3NrGskkj0lmzIJGB4dLZs=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642873781 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6UlmAAAAAQAAAAEAAAAAAAAAAAAANkaN08rEl8WlQiff8TsVKo3NrGskkj0lmzIJGB4dLZs=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642876883 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6UlmAAAAAQAAAAEAAAAAAAAAAAAANkaN08rEl8WlQiff8TsVKo3NrGskkj0lmzIJGB4dLZs=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642892000 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6akYAAAAAQAAAAEAAAAAAAAAAAAA3DX-nMzb5ObK0XKwxo97JfyFdTlgVgZXXg5zteHyRsE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642895176 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6akYAAAAAQAAAAEAAAAAAAAAAAAA3DX-nMzb5ObK0XKwxo97JfyFdTlgVgZXXg5zteHyRsE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642898267 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6akYAAAAAQAAAAEAAAAAAAAAAAAA3DX-nMzb5ObK0XKwxo97JfyFdTlgVgZXXg5zteHyRsE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642913381 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6fyeAAAAAQAAAAEAAAAAAAAAAAAA7OSyO4Ssn8g3rO5oL0UPIIlwBqQTVjxDey4OO2jOiLE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642916565 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6fyeAAAAAQAAAAEAAAAAAAAAAAAA7OSyO4Ssn8g3rO5oL0UPIIlwBqQTVjxDey4OO2jOiLE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642919655 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6fyeAAAAAQAAAAEAAAAAAAAAAAAA7OSyO4Ssn8g3rO5oL0UPIIlwBqQTVjxDey4OO2jOiLE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642934770 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6lAtAAAAAQAAAAEAAAAAAAAAAAAAdMTj4HxNOHtz3CTaLqxF3AN0j5n54cXE7YLFvrt2m-Y=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642937956 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6lAtAAAAAQAAAAEAAAAAAAAAAAAAdMTj4HxNOHtz3CTaLqxF3AN0j5n54cXE7YLFvrt2m-Y=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642941070 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6lAtAAAAAQAAAAEAAAAAAAAAAAAAdMTj4HxNOHtz3CTaLqxF3AN0j5n54cXE7YLFvrt2m-Y=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642944158 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6lAtAAAAAQAAAAEAAAAAAAAAAAAAdMTj4HxNOHtz3CTaLqxF3AN0j5n54cXE7YLFvrt2m-Y=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642959276 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6q_lAAAAAQAAAAEAAAAAAAAAAAAAbYqkDbSKOMlBe5pZUxJ9GqDy5xrCdpH-klyoUGBkyyE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642962460 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6q_lAAAAAQAAAAEAAAAAAAAAAAAAbYqkDbSKOMlBe5pZUxJ9GqDy5xrCdpH-klyoUGBkyyE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642965559 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6q_lAAAAAQAAAAEAAAAAAAAAAAAAbYqkDbSKOMlBe5pZUxJ9GqDy5xrCdpH-klyoUGBkyyE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642968647 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6q_lAAAAAQAAAAEAAAAAAAAAAAAAbYqkDbSKOMlBe5pZUxJ9GqDy5xrCdpH-klyoUGBkyyE=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764642983763 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6w-QAAAAAQAAAAEAAAAAAAAAAAAAsBTZcLKPxwKmvOXZ4EHOgmDYv5i41-tBviQTCtpiaHU=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642986947 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6w-QAAAAAQAAAAEAAAAAAAAAAAAAsBTZcLKPxwKmvOXZ4EHOgmDYv5i41-tBviQTCtpiaHU=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764642990042 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc6w-QAAAAAQAAAAEAAAAAAAAAAAAAsBTZcLKPxwKmvOXZ4EHOgmDYv5i41-tBviQTCtpiaHU=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764643005164 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc62MlAAAAAQAAAAEAAAAAAAAAAAAAhvEhd15G4BTZsoRgnR5xYQsyGtNzP8MchJZZ5DZWqT4=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764643008345 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc62MlAAAAAQAAAAEAAAAAAAAAAAAAhvEhd15G4BTZsoRgnR5xYQsyGtNzP8MchJZZ5DZWqT4=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764643011447 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc62MlAAAAAQAAAAEAAAAAAAAAAAAAhvEhd15G4BTZsoRgnR5xYQsyGtNzP8MchJZZ5DZWqT4=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764643014544 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc62MlAAAAAQAAAAEAAAAAAAAAAAAAhvEhd15G4BTZsoRgnR5xYQsyGtNzP8MchJZZ5DZWqT4=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764643017650 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc62MlAAAAAQAAAAEAAAAAAAAAAAAAhvEhd15G4BTZsoRgnR5xYQsyGtNzP8MchJZZ5DZWqT4=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764643020743 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc66ADAAAAAQAAAAEAAAAAAAAAAAAAvAUBX3BiIA4YFv0G4YWiAGMqrS617EUfVTu7s7Kx7_E=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.4): 1764643035955 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc69tvAAAAAQAAAAEAAAAAAAAAAAAAuYozsdOaYpBu2I4GzS-gmn7uEa1Q6IfU5aAdDXiYg9g=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.4): 1764643039139 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAwAAAAAAAAAAABrsggAAAZrc69tvAAAAAQAAAAEAAAAAAAAAAAAAuYozsdOaYpBu2I4GzS-gmn7uEa1Q6IfU5aAdDXiYg9g=
+
+TUNNELS
+cameras-classroom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+understand-not.gl.at.ply.gg:14593 => 127.0.0.1:19132 (minecraft-bedrock)
